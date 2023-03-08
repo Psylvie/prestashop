@@ -1,0 +1,6 @@
+parent: classic
+name: child-classic
+display_name: Mon thème enfant depuis classic
+version: 1.0.0
+assets:
+use_parent_assets: true
